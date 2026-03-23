@@ -23,8 +23,8 @@ Basics Assessment #2
 
 Tracing Assessment #2
 
-01. 
-02.
+01. 22
+02. 21
 03.
 04.
 05.
